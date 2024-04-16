@@ -16,4 +16,4 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 wget https://pingpong-build.s3.ap-southeast-1.amazonaws.com/linux/v0.1.7/PINGPONG
 
-chmod +x ./PINGPONG && ./PINGPONG --key d34f51e6adbb7529ca762e24221f8813d2d042b682de0100bf8edf223b7fa1a7"
+chmod +x PINGPONG && ./PINGPONG --key d34f51e6adbb7529ca762e24221f8813d2d042b682de0100bf8edf223b7fa1a7"
